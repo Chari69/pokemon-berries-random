@@ -5,11 +5,11 @@
     <a href="https://www.npmjs.com/package/pokemon-berries-random"><img src="https://img.shields.io/npm/v/pokemon-berries-random.svg?maxAge=3600" alt="NPM version" /></a>
         <a href="https://www.npmjs.com/package/pokemon-berries-random"><img src="https://img.shields.io/badge/downloads-0-brightgreen.svg" alt="NPM downloads" /></a>
     
-   <!-- <a href="https://www.npmjs.com/package/pokemon-random"><img src="https://img.shields.io/npm/dt/pokemon-random.svg?maxAge=3600" alt="NPM downloads" /></a> -->
+   <!-- <a href="https://img.shields.io/npm/v/pokemon-random.svg?maxAge=3600"><img src="https://img.shields.io/npm/dt/pokemon-berries-random.svg?maxAge=3600" alt="NPM downloads" /></a> -->
 
   </p>
   <p>
-    <a href="https://nodei.co/npm/pokemon-random/"><img src="https://nodei.co/npm/pokemon-random.png?downloads=true&stars=true" alt="NPM info" /></a>
+    <a href="https://nodei.co/npm/pokemon-berries-random/"><img src="https://nodei.co/npm/pokemon-berries-random.png?downloads=true&stars=true" alt="NPM info" /></a>
   </p>
 </div>
 
