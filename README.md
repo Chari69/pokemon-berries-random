@@ -30,13 +30,9 @@ npm install pokemon-berries-random --save
 For calling the pokemon and berries names
 
 ```js
-const pokemonQ = require('./randomPokemon')()
-const pokemonR = require('./randomPokemon')()
 const berrieQ = require('./randomBerries')()
 const berrieR = require('./randomBerries')()
 
-console.log('pokemonQ', pokemonQ)
-console.log('pokemonR', pokemonR)
 console.log('berrieQ', berrieQ)
 console.log('berrieR', berrieR)
 ```
