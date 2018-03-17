@@ -1,0 +1,25 @@
+{
+  "name": "pokemon-berries-random",
+  "description": "A Module to Express random Pokemon and Berries",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharizadFire58/pokemon-berries-random.git"
+  },
+  "keywords": [
+    "pokemon",
+    "berries",
+    "random",
+    "node.js"
+  ],
+  "author": "CharizardFire58",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CharizadFire58/pokemon-berries-random/issues"
+  },
+  "homepage": "https://github.com/CharizadFire58/pokemon-berries-random"
+}
