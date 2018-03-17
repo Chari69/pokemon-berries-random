@@ -15,7 +15,7 @@
 
 ## About
 
-This Module Contains Pokemon from Generation 1-7 and berries.
+This Module Contains all berries of pokemon.
 
 **Getting Started** 
 
