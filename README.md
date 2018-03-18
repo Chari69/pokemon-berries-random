@@ -3,7 +3,7 @@
   <br />
   <p>
     <a href="https://www.npmjs.com/package/pokemon-berries-random"><img src="https://img.shields.io/npm/v/pokemon-berries-random.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/pokemon-berries-random.js"><img src="https://img.shields.io/npm/dt/pokemon-berries-random.js.svg?maxAge=3600" alt="NPM downloads" /></a>
+    <a href="https://www.npmjs.com/package/pokemon-berries-random"><img src="https://img.shields.io/npm/dt/pokemon-berries-random.svg?maxAge=3600" alt="NPM downloads" /></a>
     <a href="https://travis-ci.org/CharizardFire58/pokemon-berries-random"><img src="https://travis-ci.org/CharizardFire58/pokemon-berries-random.svg" alt="Build status" /></a>
   </p>
   <p>
@@ -28,8 +28,8 @@ npm install pokemon-berries-random --save
 For calling the pokemon and berries names
 
 ```js
-const berrieQ = require('./randomBerries')()
-const berrieR = require('./randomBerries')()
+const berrieQ = require('pokemon-berries-random')()
+const berrieR = require('pokemon-berries-random')()
 
 console.log('berrieQ', berrieQ)
 console.log('berrieR', berrieR)
