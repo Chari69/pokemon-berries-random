@@ -7,7 +7,7 @@
     <a href="https://travis-ci.org/CharizardFire58/pokemon-berries-random"><img src="https://travis-ci.org/CharizardFire58/pokemon-berries-random.svg" alt="Build status" /></a>
   </p>
   <p>
-    <a href="https://nodei.co/npm/pokemon-berries-random/"><img src="https://nodei.co/npm/pokemon-berries-random.png?downloads=true&stars=true" alt="NPM info" /></a>
+    <a href="https://nodei.co/npm/pokemon-berries-random/"><img src="https://nodei.co/npm/pokemon-berries-random.png?downloads=true&stars=true" alt="npm installnfo" /></a>
   </p>
 </div>
 
