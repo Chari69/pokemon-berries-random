@@ -1,8 +1,8 @@
 {
   "name": "pokemon-berries-random",
   "description": "A Module to Express random Pokemon and Berries",
-  "version": "1.0.1",
-  "main": "index.js",
+  "version": "1.0.2",
+  "main": "randomBerries.js",
   "scripts": {
     "test": "node index.js"
   },
