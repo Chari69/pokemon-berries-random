@@ -4,7 +4,7 @@
   "version": "1.0.2",
   "main": "randomBerries.js",
   "scripts": {
-    "test": "node index.js"
+    "test": "node randomBerries.js"
   },
   "repository": {
     "type": "git",
