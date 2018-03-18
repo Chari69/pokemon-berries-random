@@ -2,6 +2,6 @@ language: node_js
 node_js:
   - 'stable'
 before_install:
-  - npm pokemon-berries-random --force
+  - npm install pokemon-berries-random --force
 after_script:
   - npm run test
