@@ -1,5 +1,5 @@
 {
-  "name": "pokemon-berries-random",
+  "name": "@charizardfire58/pokemon-berries-random",
   "version": "2.0.0-reload",
   "description": "A Module to Express random Pokemon and Berries",
   "main": "index.js",
