@@ -22,6 +22,9 @@
     "random",
     "node.js"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "author": "CharizardFire58",
   "license": "MIT",
   "bugs": {
